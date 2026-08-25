@@ -15,7 +15,7 @@ After processing the data, I used **Tableau** to visualize the differences in ri
 
 **Key Findings:**
 * **Casuals ride longer:** Casual riders average 45-minute trips, while members average 16 minutes.
-* **Weekend peaks:** Casual usage spikes heavily on weekends and during the summer months.
+* **Weekend peaks:** Casual usage spikes heavily on weekends and during the summer/fall months.
 * **Commuter patterns:** Members use bikes consistently on weekdays at 8 AM and 5 PM.
 
 ## 4. Recommendations
