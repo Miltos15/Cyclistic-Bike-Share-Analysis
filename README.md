@@ -11,7 +11,7 @@ I used 12 months of historical trip data (millions of rows) provided by the comp
 ## 3. Data Analysis & Insights
 After processing the data, I used **Tableau** to visualize the differences in rider behavior. 
 
-![Cyclistic Dashboard](dashboard.png)
+![Cyclistic Dashboard](dashboard_v2.png)
 
 **Key Findings:**
 * **Casuals ride longer:** Casual riders average 45-minute trips, while members average 16 minutes.
