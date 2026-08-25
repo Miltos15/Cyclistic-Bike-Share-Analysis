@@ -17,9 +17,12 @@ After processing the data, I used **Tableau** to visualize the differences in ri
 * **Casuals ride longer:** Casual riders average 45-minute trips, while members average 16 minutes.
 * **Weekend peaks:** Casual usage spikes heavily on weekends and during the summer/fall months.
 * **Commuter patterns:** Members use bikes consistently on weekdays at 8 AM and 5 PM.
+* **Trips:** Casual riders tend to ride more round trips than members.
+* **Bike type:** Both members and casual users they prefer docked bikes for their rides with big difference from other bike types.
 
 ## 4. Recommendations
 Based on the data, I recommend the following three strategies to convert casual riders into annual members:
 1. **Launch a "Summer Weekend" Pass:** Target the high volume of weekend leisure riders.
 2. **Highlight Financial Savings:** Show casual riders how much money they can save on 45+ minute rides by upgrading to a membership.
 3. **Target Tourist Stations:** Place physical ads at coastal and park stations where round-trip casual rides are most frequent.
+4. **Add more dock stations:** Add extra dock stations, expanding the radius of the bike-rental service, in more areas. 
