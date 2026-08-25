@@ -5,7 +5,7 @@ The dataset I used is public data from Divvy, the real-world bicycle-sharing sys
 Cyclistic, a bike-share company in Chicago, wants to maximize the number of annual memberships. The goal of this project is to analyze how casual riders and annual members use Cyclistic bikes differently, and to recommend marketing strategies to convert casual riders into members.
 
 ## 2. Data Preparation & Processing
-I used 12 months of historical trip data (millions of rows) provided by the company. To handle this massive dataset, I used **BigQuery (SQL)** to combine, clean, and aggregate the data. 
+I used 8 months of historical trip data provided by the company. To handle this massive dataset, I used **BigQuery (SQL)** to combine, clean, and aggregate the data. 
 * *View my SQL cleaning queries in this repository.*
 
 ## 3. Data Analysis & Insights
